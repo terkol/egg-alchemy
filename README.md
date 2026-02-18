@@ -28,7 +28,7 @@ When held and right-click is pressed, the Transmuted Egg will disappear and a ra
 
 ## License
 
-Code and art: **MIT**
+Code and art: **All rights reserved**
 
 Modpack permission: You may include and redistribute the unmodified compiled mod .jar as part of a modpack, provided:
 - you credit the author, and
