@@ -1,0 +1,16 @@
+[
+{
+  "modid": "egg_alchemy",
+  "name": "Egg Alchemy",
+  "description": "Allows you to alchemically the chicken egg and what it contains",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ore_tea"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
