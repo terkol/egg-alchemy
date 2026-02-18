@@ -40,4 +40,4 @@ This permission does not allow extracting, reusing, or redistributing the art as
 
 The mod only has one sprite: 
 
-![icon](https://raw.githubusercontent.com/terkol/minecraft-modding/egg-alchemy/files_for_readme/animated.gif)
+![icon](https://raw.githubusercontent.com/terkol/egg-alchemy/main/files_for_readme/animated.gif)
