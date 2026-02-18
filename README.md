@@ -11,7 +11,7 @@ When held and right-click is pressed, the Transmuted Egg will disappear and a ra
 
 ## Install
 1. Install the recommended forge loader version for Minecraft **1.12.2**.
-2. Download `egg-alchemy-1.0-1.12.2.jar` from the root folder of Untiered Items.
+2. Download `egg-alchemy-1.0-1.12.2.jar` from the root folder.
 3. Put the `.jar` into your `mods` folder.
 4. Launch game. 
 
